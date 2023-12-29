@@ -1,0 +1,61 @@
+.edu-bg-container{
+    height:100vh;
+    width: 216vh;
+    background-size: cover;
+    background-color:aliceblue;
+    margin: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    border: 1px solid #000000;
+}
+
+.dash-board-container{
+    background-color: black;
+    width:50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    height: 105vh;
+}
+
+.edu-main-heading{
+color: #FFF;
+font-family: "Roboto";
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+background-color: transparent;
+border: none;
+outline: none;
+height: 15px;
+margin-top:10px;
+}
+
+.learning{
+color: #FFF;
+font-family: "Roboto";
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 150px;
+height: 20px;
+margin-left: 10px;
+}
+
+.learning-res-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    background-color: aliceblue;
+    width: 170vh;
+    height: 100vh;
+    padding-top:30px;
+    
+    background-size: cover;
+}
+
+
